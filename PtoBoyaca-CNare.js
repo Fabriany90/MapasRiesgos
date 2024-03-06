@@ -14,8 +14,8 @@ function initMap() {
   const	punto12	={lat:	6.087914	,lng:	-74.568114	};
   const	punto13	={lat:	6.087914	,lng:	-74.568114	};
   const	punto14	={lat:	6.076162	,lng:	-74.587177	};
-  const	punto15	={lat:	6.087914	,lng:	-74.568114	};
-  const	punto16	={lat:	6.083222	,lng:	-74.583125	};
+  const	punto15	={lat:	6.081127	,lng:	-74.589123	};
+  const	punto16	={lat:	6.076579	,lng:	-74.587541	};
   
 
 
