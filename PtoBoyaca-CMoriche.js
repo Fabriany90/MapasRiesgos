@@ -39,7 +39,7 @@ function initMap() {
   const	punto38	={lat:	6.15452	,lng:	-74.564453	};
   const	punto39	={lat:	6.178688	,lng:	-74.564243	};
   const	punto40	={lat:	5.988779	,lng:	-74.554801	};
-  const	punto41	={lat:	5.972726	,lng:	-74.579534	};
+  const	punto41	={lat:	5.977770	,lng:	-74.561892	};
   const	punto42	={lat:	5.978287	,lng:	-74.592103	};
   
   
@@ -617,7 +617,7 @@ const 	info_punto39=
          "</div>"+				
          '<div class="siteNotaStar">' +				
              "<h1>Kilómetro:</h1>"+"<p>	159.8	</p>"+		
-             "<h1>Ubicación:</h1>"+"<p>	Km 30 via en mal estado	</p>"+		
+             "<h1>Ubicación:</h1>"+"<p>	Km 159.8 via en mal estado	</p>"+		
              "<h1>Valoración:</h1>"+'<div id=	"importante"	><p>	Importante	</p></div>'+
          "</div>"+				
          '<div id="MasInfo">' +				
