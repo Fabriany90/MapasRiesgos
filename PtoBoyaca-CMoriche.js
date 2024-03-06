@@ -603,7 +603,7 @@ const 	info_punto39=
          "</div>"+				
          '<div class="siteNotaStar">' +				
              "<h1>Kilómetro:</h1>"+"<p>	129.8	</p>"+		
-             "<h1>Ubicación:</h1>"+"<p>	Km 26,3 via en mal estado	</p>"+		
+             "<h1>Ubicación:</h1>"+"<p>	Km 129.8 via en mal estado	</p>"+		
              "<h1>Valoración:</h1>"+'<div id=	"importante"	><p>	Importante	</p></div>'+
          "</div>"+				
          '<div id="MasInfo">' +				
